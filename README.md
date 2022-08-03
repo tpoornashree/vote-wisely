@@ -2,6 +2,6 @@
 ✏️ Designed using html, css and javascript ❗
 
 
-➡️ Candidates with 272 votes will be declared as winner ❗
+➡️ Candidates with 100 votes will be declared as winner ❗
 
 
